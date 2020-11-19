@@ -5,7 +5,6 @@
   "author": "fanyuanhe <fanyuanhe@baidu.com>",
   "homepage": "",
   "license": "ISC",
-  "private": "true",
   "main": "lib/feu-app.js",
   "directories": {
     "lib": "lib",
