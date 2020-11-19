@@ -1,5 +1,5 @@
 {
-  "name": "feu-tools-packages",
+  "name": "feu-tools-package",
   "version": "0.0.3",
   "description": "> TODO: description",
   "author": "fanyuanhe <fanyuanhe@baidu.com>",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "7d5db1a32f606a663db446c3a951b671a281928a"
+  "gitHead": "e709d993d0bfbf892d3a64eff60c9a93c4cc42de"
 }

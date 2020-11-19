@@ -1,5 +1,5 @@
 {
-  "name": "feu-ui",
+  "name": "feu-ui-package",
   "version": "0.0.3",
   "description": "> TODO: description",
   "author": "fanyuanhe <fanyuanhe@baidu.com>",
@@ -22,5 +22,5 @@
   "dependencies": {
     "feu-tools": "^0.0.2"
   },
-  "gitHead": "7d5db1a32f606a663db446c3a951b671a281928a"
+  "gitHead": "e709d993d0bfbf892d3a64eff60c9a93c4cc42de"
 }
