@@ -19,5 +19,6 @@
   "dependencies": {
     "feu-tools": "^0.0.2",
     "feu-ui": "^0.0.2"
-  }
+  },
+  "gitHead": "7d5db1a32f606a663db446c3a951b671a281928a"
 }
